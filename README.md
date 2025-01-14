@@ -1,6 +1,6 @@
 # Preview
 
-<iframe src="https://streamable.com/b7ihqp" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+https://streamable.com/b7ihqp
 
 ## Terms of Use
 
